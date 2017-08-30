@@ -1,0 +1,31 @@
+{
+  "dependencies": {},
+  "description": "TypeScript definitions for ThinkJs",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-+YQ5JLlvLP24teVUdUDep83mAWIFoAnOMosrH/2+xDeU9YMUpmMJtYOqVtbivs37h2PL9svz0R3r/MfVuEvEIA==",
+    "shasum": "9c6bfee1f45f5e9952ff6b487e657ecca48c7777",
+    "tarball": "https://registry.npmjs.org/@types/node/-/node-8.0.22.tgz"
+  },
+  "license": "MIT",
+  "main": "",
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ts-npm-types@microsoft.com"
+    }
+  ],
+  "name": "@types/thinkjs",
+  "optionalDependencies": {},
+  "peerDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.2",
+  "typesPublisherContentHash": "4aee6926317d01e6fa3487f61da5431aef3d4ff2ce236d5b08ad1eb6c7435185",
+  "version": "8.0.22"
+}
